@@ -19,6 +19,7 @@ public class OverloadDemo {
 	o.add(10,20);
 	o.add(12.12f, 20);
 	o.add('a', 'b');
+	System.out.println("this is new message");
 	}
 
 }
